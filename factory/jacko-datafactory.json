@@ -1,0 +1,9 @@
+{
+	"name": "jacko-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1db6b8c-edfe-4e59-8bb8-7d23f67f80f5",
+		"tenantId": "231e7a8a-e0d3-4aa0-b489-1448a28ec134"
+	}
+}
